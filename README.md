@@ -631,7 +631,6 @@ The project can be further enhanced with:
 
 ## Suraj Kadam
 
-**B.E. Electronics & Telecommunication Engineering**
 
 ### Technical Skills
 
